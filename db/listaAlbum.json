@@ -1,0 +1,32 @@
+[
+  {
+    "albumName": "New Jersey",
+    "author": "Bon Jovi",
+    "releaseDate": 1988
+  },
+  {
+    "albumName": "Live at Wembley 86",
+    "author": "Queen",
+    "releaseDate": 1992
+  },
+  {
+    "albumName": "Ten's Summoner's Tales",
+    "author": "Sting",
+    "releaseDate": 1993
+  },
+  {
+    "albumName": "Steve Gadd Band",
+    "author": "Steve Gadd Band",
+    "releaseDate": 2018
+  },
+  {
+    "albumName": "Brave New World",
+    "author": "Iron Maiden",
+    "releaseDate": 2000
+  },
+  {
+    "albumName": "One More Car, One More Rider",
+    "author": "Eric Clapton",
+    "releaseDate": 2002
+  }
+]

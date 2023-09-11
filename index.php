@@ -14,7 +14,15 @@
 
 <body>
  
-  <script src="./js/main.js"></script>
+  <div id="app">
+    <div class="main-container">
+      <div class="card" v-for="singleAlbum in album">
+        <div>{{ singleAlbum.albumName }}</div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./main.js"></script>
 </body>
 
 </html>
